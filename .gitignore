@@ -1,3 +1,4 @@
+	.direnv
 	.gdb_history
 	*.o
 	test_asm
